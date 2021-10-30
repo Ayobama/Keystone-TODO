@@ -25,7 +25,7 @@ git status
 #echo 'Enter the name of the branch:'
 #read branch
 
-git push #origin $branch
+git push https://github.com/Ayobama/Keystone-TODO.git #origin $branch
 
 read
 
